@@ -1,1 +1,5 @@
-
+adobe.io
+adobestats.io
+hstatic.io
+crs.cr.adobe.com
+prod.adobegenuine.com
